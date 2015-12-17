@@ -4,7 +4,7 @@
 ##### December 16, 2015
 ##### CSC 570
 
-[Project Notebook](project.ipynb)
+[Project Notebook](https://github.com/gbullard/Project/blob/master/Project.ipynb)
 
 As populations continue to grow, fresh water is becomming an increasingly important public resource.  Futhermore, as the western United States continues to face drought, the ability for local leaders to accurately project changes to fresh water consumption is crucial. The United States Geological Survey maintains data on the industrial, agricultural, and domestic water usage for every county in the country.  Using this data (compiled in 2010), we should be able to determine which industries have the largest impact on a counties' usage and make some predictions about how consumption rates might change if businesses or population expand.
 
